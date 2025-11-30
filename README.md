@@ -8,7 +8,7 @@ The application is the final product of an end-to-end data science pipeline, sta
 
 ##  Live Demo
 You can try the application directly in your browser without any installation:
- **[Click here to open the App](https://4wavnkvjv6jkyg6twbbyfc.streamlit.app)**
+ **[Click here to open the App](https://izmirhousepricepredictionapplication-kmnejbtztfuy3dxha29s4c.streamlit.app)**
 
 ---
 
